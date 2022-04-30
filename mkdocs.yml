@@ -1,0 +1,11 @@
+site_name: CSCT Think Tank
+theme:
+  name: material
+nav: 
+  - Home : 'index.md'
+  - Commitees :
+    - AI Committee : './committees/AI.md'
+    - Game Development Committee : './committees/Game-dev.md'
+    - Chatbot Committee : './committees/Chatbot.md'
+    - AI in LS Committee : './committees/AI-in-LS.md'
+    - Programming Language Committee : './committees/Programming-Language.md'
