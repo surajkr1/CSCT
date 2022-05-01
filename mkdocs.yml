@@ -4,8 +4,9 @@ theme:
 nav: 
   - Home : 'index.md'
   - Secretariat:
-    - General Seceratary: './Secretariat/general-secreatary'
-  - Commitees :
+    - General Seceratary: './Secretariat/SG.md'
+    - Secretary of Commitee Formation : './Secretariat/SCF.md'
+  - List of Commitees :
     - AI Committee : './committees/AI.md'
     - Game Development Committee : './committees/Game-dev.md'
     - Chatbot Committee : './committees/Chatbot.md'
