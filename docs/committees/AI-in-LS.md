@@ -1,1 +1,1 @@
-# AI in LS Commitee
+# AI in Life Science Commitee
