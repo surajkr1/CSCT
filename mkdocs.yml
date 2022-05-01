@@ -3,6 +3,8 @@ theme:
   name: material
 nav: 
   - Home : 'index.md'
+  - Secretariat:
+    - General Seceratary: './Secretariat/general-secreatary'
   - Commitees :
     - AI Committee : './committees/AI.md'
     - Game Development Committee : './committees/Game-dev.md'
