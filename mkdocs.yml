@@ -3,9 +3,13 @@ theme:
   name: material
 nav: 
   - Home : 'index.md'
+  - Organisational Structure : './structure.md'
   - Secretariat:
     - General Seceratary: './Secretariat/SG.md'
     - Secretary of Commitee Formation : './Secretariat/SCF.md'
+    - Secretary of Commitee Operations : './Secretariat/SCO.md'
+    - Secretary of Fellowship : './Secretariat/SF.md'
+    - Secretary of Website : './Secretariat/SW.md'
   - List of Commitees :
     - AI Committee : './committees/AI.md'
     - Game Development Committee : './committees/Game-dev.md'

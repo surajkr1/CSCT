@@ -1,12 +1,12 @@
-# Secreatary of Committee Formation 
+# Secretary for website
 
 ## Incumbent
 
-### Aditya Sharma
-* Aditya is a highly talented person who has played a vital role in CSCT 
+### Ansh Sharma
+* Ansh, is a extra  for  and time and again has proved his brilliance in web devlopment.
 * Under his tenure:
-  * He helped in the establishment of several committess
-  * Drafted the rules for creation of committees
+  * asdfasdfasdfasdf
+  * asdfasdf
 ## Role 
 The Secretary General of the CSCT is the administrative head of the CSCT Secretariat. In order of precedence, the post of secretary general is of the rank, who is the senior most member in the CSCT.
 
@@ -14,5 +14,5 @@ The Secretary General of the CSCT is the administrative head of the CSCT Secreta
 * Heads the Secretariat.
 * Acts as the chief coordinator of the diffrent secretires.
 
-## List of Secretary General of the CSCT
-1. Aditya Sharama ( *Inaugural* )
+## List of Secretary for website
+1. Ansh Sharama ( *Inaugural* )
