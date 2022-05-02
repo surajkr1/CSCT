@@ -1,30 +1,48 @@
-# Programming Language committee
+# Programming Language Committee
 
 ## Topic:
-Programming Language Development and Programming Languages
+Programming Language Committee (PLC)
 
 ## Description
-A committee dedicated to programming language development and programming languages. The committee will discuss programming language design, programming languages and programming language development. We will hold many events and debates here. The committee will help each other with their programming language projects and help new developers start their programming language development journey.
+---
+
+The committee focuses on the design and development of programming languages. It aims to analyze and develop programming languages that are better, faster, secure, and more powerful. This shall improve the foundation of all software exponentially. And will try to play a role in creating a new generation of programming languages that makes programming easier and help developers to build world-changing software.
 
 ## Executive Director
 ### Incumbent
-Joel K
-* Darshan is 
+Joel
+* Joel is 
 * Under his tenure:
   * Point 1
   * Point 2
 ### List of Executive Directors
-1. Darshan K ( *Inaugural* )
+1. Joel ( *Inaugural* )
+
+## Additional Director
+### Incumbent
+Joel
+* Joel is 
+* Under his tenure:
+  * Point 1
+  * Point 2
+### List of Additional Directors
+1. Joel ( *Inaugural* )
 
 ## Members
 ### Incumbent 
-1. Saptak
-2. helloImPR#6776
-3. Joel
-4. Pygami
+1. Darshan K
+2. Joel
+3. Vanya Sahi
+4. Neha Reddy
+5. Arjun Karthikeya
+6. Krish Yadav
+7. Suraj Kumar
 
 ### List of members
-1. Saptak
-2. helloImPR#6776
-3. Joel
-4. Pygami
+1. Darshan K
+2. Joel
+3. Vanya Sahi
+4. Neha Reddy
+5. Arjun Karthikeya
+6. Krish Yadav
+7. Suraj Kumar
