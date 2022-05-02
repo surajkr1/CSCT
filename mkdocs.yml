@@ -12,12 +12,12 @@ nav:
     - Formation of committees : './do/events.md'
     - Releases : './do/releases.md'
   - Organisational Structure : './structure.md'
-  - Secretariat:
-    - General Seceratary: './Secretariat/SG.md'
-    - Secretary of Commitee Formation : './Secretariat/SCF.md'
-    - Secretary of Commitee Operations : './Secretariat/SCO.md'
-    - Secretary of Fellowship : './Secretariat/SF.md'
-    - Secretary of Website : './Secretariat/SW.md'
+  - secretariat:
+    - General Seceratary: './secretariat/SG.md'
+    - Secretary of Commitee Formation : './secretariat/SCF.md'
+    - Secretary of Commitee Operations : './secretariat/SCO.md'
+    - Secretary of Fellowship : './secretariat/SF.md'
+    - Secretary of Website : './secretariat/SW.md'
   - List of Commitees :
     - AI Committee : './committees/AI.md'
     - Game Development Committee : './committees/Game-dev.md'
