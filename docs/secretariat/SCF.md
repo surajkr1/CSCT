@@ -3,7 +3,7 @@
 ## Incumbent
 
 ### Aditya Sharma
-* Aditya is a highly talented person who has played a vital role in CSCT 
+* Aditya is a highly talented member, who has played a vital role in advancment of CSCT. 
 * Under his tenure:
   * He helped in the establishment of several committess
   * Drafted the rules for creation of committees

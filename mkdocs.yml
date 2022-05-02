@@ -3,6 +3,14 @@ theme:
   name: material
 nav: 
   - Home : 'index.md'
+  - What we do :
+    - Committees : './do/committees.md'
+    - Events : './do/events.md'
+    - Releases : './do/releases.md'
+  - How we work :
+    - Committees : './do/committees.md'
+    - Formation of committees : './do/events.md'
+    - Releases : './do/releases.md'
   - Organisational Structure : './structure.md'
   - Secretariat:
     - General Seceratary: './Secretariat/SG.md'

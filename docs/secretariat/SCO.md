@@ -3,7 +3,7 @@
 ## Incumbent
 
 ### Yash Yadav
-* Aditya is a highly talented person who has played a vital role in CSCT 
+* Yash 
 * Under his tenure:
   * He helped in the establishment of several committess
   * Drafted the rules for creation of committees
