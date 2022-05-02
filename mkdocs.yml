@@ -1,6 +1,6 @@
 site_name: CSCT
 theme:
-  logo: assets/logo_trans.svg
+  logo: assets/logo_trans-v2.png
   name: material
   palette:
     - media: "(prefers-color-scheme: light)" 
