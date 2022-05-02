@@ -1,5 +1,6 @@
-site_name: CSCT Think Tank
+site_name: CSCT
 theme:
+  logo: assets/logo_trans.png
   name: material
   palette:
     - media: "(prefers-color-scheme: light)" 

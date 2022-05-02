@@ -5,8 +5,8 @@
 ### Yash Yadav
 * Yash 
 * Under his tenure:
-  * He helped in the establishment of several committess
-  * Drafted the rules for creation of committees
+    * He helped in the establishment of several committess
+    * Drafted the rules for creation of committees
 ## Role 
 The Secretary General of the CSCT is the administrative head of the CSCT Secretariat. In order of precedence, the post of secretary general is of the rank, who is the senior most member in the CSCT.
 
