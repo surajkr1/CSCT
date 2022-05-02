@@ -1,7 +1,6 @@
 site_name: CSCT Think Tank
 theme:
   name: material
-theme:
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
