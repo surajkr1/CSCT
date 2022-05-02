@@ -5,10 +5,10 @@
 ### Aditya Sharma
 * Aditya is a highly talented member, who has played a vital role in advancment of CSCT. 
 * Under his tenure:
-    * He helped in the establishment of several committess
+    * He helped in the establishment of several committees
     * Drafted the rules for creation of committees
 ## Role 
-The Secreatary Committee Formation of the CSCT is the administrative head for member selection as well as committe approval. In order of precedence, the post of Secreatary Committee Formation is of the rank, *[PLEASE TELL]*.
+The Secreatary Committee Formation of the CSCT is the recrutive head for member selection as well as committe approval. In order of precedence, the post of Secreatary Committee Formation is of the rank, Cooperative Secreatary.
 
 ## Duties
 * Selecting members for the think tank
